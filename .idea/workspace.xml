@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0e4cf35-3092-4b87-8da3-2e19b69e7a63" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/KhoiTaoLop1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KhoiTaoLop2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyDate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LopHinhTron.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/Test.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,7 @@
     "JavaScript Debug.Test.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
@@ -67,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1767751415404</updated>
-      <workItem from="1767751416524" duration="3574000" />
+      <workItem from="1767751416524" duration="6114000" />
     </task>
     <servers />
   </component>
